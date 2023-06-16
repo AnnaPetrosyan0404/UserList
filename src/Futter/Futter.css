@@ -1,0 +1,20 @@
+.conteiner-futter{
+    background-color: rgb(0, 225, 255);
+   margin-top: 37%;
+}
+.conteiner-futter-content{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.conteiner-futter-content-text {
+    color: darkblue;
+}
+.conteiner-futter-content-socSetimg{
+    cursor: pointer;
+    margin: 2px;
+    list-style: none;
+}
+.conteiner-futter-content-icon{
+    cursor: pointer;
+}

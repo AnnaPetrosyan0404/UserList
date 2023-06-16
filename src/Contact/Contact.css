@@ -1,0 +1,26 @@
+.img{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.p{
+ width: 50%;
+}
+.contcat{
+    background-color: rgb(164, 209, 241);
+}
+.conteiner-contact{
+    display: flex;
+    justify-content: center;
+}
+.ilonmask{
+text-align: center;
+}
+.img1 h1{
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}
+.img1 p{
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}

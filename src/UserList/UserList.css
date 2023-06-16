@@ -1,0 +1,65 @@
+.conteiner-userlist{
+    border: 1px aqua solid;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    min-width :190px; 
+   min-height: 160px;
+   background-color: rgb(12, 146, 146);
+}
+
+.conteiner-userlist-lastname{
+    display: flex;
+    justify-content: space-evenly;
+} 
+.conteiner-userlist-data{
+    text-align: end;
+    color: rgb(15, 199, 223);
+    margin-right: 8px;
+
+}
+.max-width{
+   max-width:1300px; 
+   width: 100%;
+   position: relative;
+}
+.userlist-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    color: blueviolet ;
+}
+.conteiner-modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 10%;
+
+}
+.conteiner-modal-content{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(79, 148, 182);
+    border-radius: 15px;
+    
+
+}
+.input{
+    text-align: center;
+    margin: 15px 0 10px 0;
+}
+.button{
+ height: 50px;
+ width: 100px;
+background-color: blue;
+cursor: pointer;
+
+}
